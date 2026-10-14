@@ -45,3 +45,5 @@
 ## Setup requirements
 - Instructors must add students to a team named after the class name.
 - Students must accept the invite from GitHub in order to be able to contribute to this repo
+
+test
